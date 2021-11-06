@@ -23,8 +23,9 @@
 /*									*/
 /* Compile with:   gcc -O2 -Wall -o rapl-read rapl-read.c -lm		*/
 /*									*/
-/* Vince Weaver -- vincent.weaver @ maine.edu -- 11 September 2015	*/
+/* Originally made by: Vince Weaver -- vincent.weaver @ maine.edu -- 11 September 2015	*/
 /*									*/
+/* Code modefied by Sander van Oostveen -- s.van.oostveen@student.vu.nl -- 15 June 2020 */
 
 #include <stdio.h>
 #include <stdlib.h>
